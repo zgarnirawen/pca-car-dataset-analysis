@@ -75,7 +75,7 @@ The project provides:
 
 ## Author
 
-Your Name
+Rawen ZGARNI
 
 ## Notes
 
